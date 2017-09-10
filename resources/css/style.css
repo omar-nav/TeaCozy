@@ -111,11 +111,10 @@ nav span {
   padding: 1.3%;
 }
 .thisMonth{
-  width: 1200px;
+  width: 1000px;
   padding: 15px 0px;
+  margin:auto;
 }
 #thisMonth{
   display: flex;
-  align-items: center;
-
 }
